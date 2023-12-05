@@ -10,7 +10,7 @@ first_name: Yu
 last_name: Luo
 
 # Status emoji
-status: 😃
+status: 
   icon: ☕️
 
 # Is this the primary user of the site?
