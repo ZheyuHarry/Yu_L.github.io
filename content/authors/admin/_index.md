@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Yu Luo 罗宇
+title: 罗宇
 
 # Name pronunciation (optional)
-name_pronunciation: Yu Luo
+name_pronunciation: Luo Yu
 
 # Full name (for SEO)
 first_name: Yu
@@ -11,7 +11,7 @@ last_name: Luo
 
 # Status emoji
 status: 
-  icon: ☕️
+  icon: 💻🏋🏃🎸📔
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,11 +25,13 @@ organizations:
     url: https://www.nankai.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests now mainly in computer vision
+bio: ''
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
+  - Computer Vison
+  - Machine Learning
+  - ACM
 
 
 # Education to show in About widget
@@ -46,8 +48,13 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 70
         icon: python
+        icon_pack: fab
+      - name: C/C++
+        description: 'Mainly trained by competing in algorithm programming contest'
+        percent: 80
+        icon: C
         icon_pack: fab
 
   - name: Hobbies
@@ -56,18 +63,23 @@ skills:
     items:
       - name: Fitness
         description: ''
-        percent: 70
+        percent: 100
         icon: fitness
         icon_pack: fas
       - name: Guitar
         description: ''
-        percent: 100
+        percent: 80
         icon: guitar
         icon_pack: fas
-      - name: Soulslike
+      - name: Games
         description: ''
-        percent: 80
-        icon: Elden Ring
+        percent: 60
+        icon: games
+        icon_pack: fas
+      - name: Reading
+        description: ''
+        percent: 70
+        icon: reading
         icon_pack: fas
 
 # Social/Academic Networking
@@ -95,5 +107,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Luo Yu is a student majoring in software engineering and is now an intern in the Media Computing Lab. He has been trained to cope with difficult problems for his experience in algorithm competitions. And now his research interests is mainly on the computer vision.
 {style="text-align: justify;"}
