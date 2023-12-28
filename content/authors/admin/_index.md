@@ -55,7 +55,7 @@ skills:
         description: 'Mainly trained by competing in algorithm programming contest'
         percent: 80
         icon: C
-        icon_pack: fab
+        icon_pack: custom
 
   - name: Hobbies
     color: '#eeac02'
@@ -65,7 +65,7 @@ skills:
         description: ''
         percent: 100
         icon: fitness
-        icon_pack: fas
+        icon_pack: custom
       - name: Guitar
         description: ''
         percent: 80
@@ -75,12 +75,12 @@ skills:
         description: ''
         percent: 60
         icon: games
-        icon_pack: fas
+        icon_pack: custom
       - name: Reading
         description: ''
         percent: 70
         icon: reading
-        icon_pack: fas
+        icon_pack: custom
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
