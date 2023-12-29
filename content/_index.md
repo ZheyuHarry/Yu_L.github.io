@@ -69,7 +69,7 @@ sections:
           location: Tian Jin
           date_start: '2022-05-21'
           date_end: '2023-11-26'
-          description: |2-
+          description: |1-
               Responsibilities include:
 
               * Solving problems
