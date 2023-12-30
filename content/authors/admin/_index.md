@@ -11,7 +11,7 @@ last_name: Luo
 
 # Status emoji
 status: 
-  icon: 💻🏋🏃🎸📔
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -92,10 +92,7 @@ social:
     link: '1035168426@qq.com'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/ZheyuHarry
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
